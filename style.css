@@ -4,20 +4,16 @@ body {
   padding-top: 50px;
 }
 
-#top-menu{
+.ui.borderless.inverted.menu.top-menu{
   box-shadow: none;
   border: none;
   background: none;
-  color: white;
 }
 
 .row {
   color: white;
-}
-
-img.image {
-  padding-top: 100px;
-  padding-bottom: 175px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 a.item {
